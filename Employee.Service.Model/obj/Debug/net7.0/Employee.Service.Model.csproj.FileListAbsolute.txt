@@ -1,0 +1,60 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll
+E:\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.deps.json
+E:\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.dll
+E:\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.pdb
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.AssemblyReference.cache
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfoInputs.cache
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfo.cs
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CoreCompileInputs.cache
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CopyComplete
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.dll
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
+E:\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.deps.json
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.AssemblyReference.cache
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfoInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfo.cs
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CoreCompileInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CopyComplete
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.deps.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.AssemblyReference.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfoInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfo.cs
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CoreCompileInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CopyComplete
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll

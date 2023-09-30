@@ -1,0 +1,108 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+E:\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+D:\sajib\27-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll

@@ -1,0 +1,46 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll
+E:\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+E:\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+E:\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.AssemblyReference.cache
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+E:\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+E:\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+E:\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+D:\sajib\27-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.AssemblyReference.cache
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\27-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.deps.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfoInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.AssemblyInfo.cs
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.csproj.CoreCompileInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\refint\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Shared\obj\Debug\net7.0\ref\Employee.Shared.dll

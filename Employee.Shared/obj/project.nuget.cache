@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5QVG7vRgq4ZxZywvynkZ4GrTxGoY9VFGWnzS7+El637UQI6/eC/vQPtGx+2rgP+A+9YJ4PyKmSya1X1R6z3yA==",
+  "success": true,
+  "projectFilePath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

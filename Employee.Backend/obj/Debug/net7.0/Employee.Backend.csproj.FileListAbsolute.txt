@@ -1,0 +1,432 @@
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.exe
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.deps.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.runtimeconfig.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Humanizer.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.AssemblyReference.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfoInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CoreCompileInputs.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.Backend.props
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.Backend.props
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.Backend.props
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\scopedcss\bundle\Employee.Backend.styles.css
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CopyComplete
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\refint\Employee.Backend.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.pdb
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.genruntimeconfig.cache
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\obj\Debug\net7.0\ref\Employee.Backend.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\M.A. Monaem Khan C#\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.json
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.exe
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.deps.json
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.runtimeconfig.json
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Humanizer.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.dll
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.pdb
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.AssemblyReference.cache
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfoInputs.cache
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfo.cs
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CoreCompileInputs.cache
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.Backend.props
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.Backend.props
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.Backend.props
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\Employee\Employee.Backend\obj\Debug\net7.0\scopedcss\bundle\Employee.Backend.styles.css
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CopyComplete
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.dll
+E:\Employee\Employee.Backend\obj\Debug\net7.0\refint\Employee.Backend.dll
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.pdb
+E:\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.genruntimeconfig.cache
+E:\Employee\Employee.Backend\obj\Debug\net7.0\ref\Employee.Backend.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.Development.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.exe
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.deps.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.runtimeconfig.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Core.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Humanizer.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.AssemblyReference.cache
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfoInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfo.cs
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CoreCompileInputs.cache
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.Backend.props
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.Backend.props
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.Backend.props
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\scopedcss\bundle\Employee.Backend.styles.css
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CopyComplete
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\refint\Employee.Backend.dll
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.pdb
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.genruntimeconfig.cache
+D:\sajib\27-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\ref\Employee.Backend.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.Development.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\appsettings.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.exe
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.deps.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.runtimeconfig.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Backend.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Core.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\EntityFramework.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Humanizer.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Core.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Repository.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Employee.Shared.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.AssemblyReference.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfoInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.AssemblyInfo.cs
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CoreCompileInputs.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.Employee.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee.Backend.props
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee.Backend.props
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee.Backend.props
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\scopedcss\bundle\Employee.Backend.styles.css
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.csproj.CopyComplete
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\refint\Employee.Backend.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.pdb
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.genruntimeconfig.cache
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\ref\Employee.Backend.dll
