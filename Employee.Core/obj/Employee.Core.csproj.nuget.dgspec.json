@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj": {}
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj": {}
   },
   "projects": {
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj",
         "projectName": "Employee.Core",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj"
               },
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\Employee.Repository.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\Employee.Repository.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\Employee.Repository.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\Employee.Repository.csproj"
               },
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj"
               }
             }
           }
@@ -83,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
         "projectName": "Employee.Infrastructure",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +111,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj"
               }
             }
           }
@@ -128,6 +128,12 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
             },
@@ -162,21 +168,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj",
         "projectName": "Employee.Model",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,8 +196,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj"
               }
             }
           }
@@ -205,6 +211,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -221,21 +235,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\Employee.Repository.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\Employee.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\Employee.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\Employee.Repository.csproj",
         "projectName": "Employee.Repository",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\Employee.Repository.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Repository\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\Employee.Repository.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -249,14 +263,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
               },
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj"
               },
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj"
               }
             }
           }
@@ -296,21 +310,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
         "projectName": "Employee.Service.Model",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Service.Model\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Service.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -324,8 +338,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
-                "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj"
+              "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
+                "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj"
               }
             }
           }
@@ -355,21 +369,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
+    "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj",
         "projectName": "Employee.Shared",
-        "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj",
-        "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-        "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\obj\\",
+        "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj",
+        "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -410,7 +424,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

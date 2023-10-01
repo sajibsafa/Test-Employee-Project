@@ -67,9 +67,11 @@
                 @Html.DisplayFor(modelItem => item.StateId)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    <a class=" btn btn-success" href="Employee/AddOrEdit/@item.Id"> Edit </a>
+                    <a class=" btn btn-success" href="Employee/Delete/@item.Id" onclick="return confirm('Are you sure want to Delete this item')"> Delete </a>
+               @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
             </td>
         </tr>
 }

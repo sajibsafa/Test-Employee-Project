@@ -23,7 +23,7 @@ public class GetAllStateQueryHander : IRequestHandler<GetAllStateQuery, QueryRes
 
     public async Task<QueryResult<IEnumerable<VMState>>> Handle(GetAllStateQuery request, CancellationToken cancellationToken)
     {
-        var country = await _countryRepository.GetAllAsync();
+        var country = await _countryRepository.GetAllAsync(x=>x.Countries);
         return country switch
         {
             null => new QueryResult<IEnumerable<VMState>>(null, QueryResultTypeEnum.NotFound),

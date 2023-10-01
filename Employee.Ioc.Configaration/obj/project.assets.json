@@ -3975,19 +3975,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LAB-711\\.nuget\\packages\\": {}
+    "C:\\Users\\sajib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
+      "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
       "projectName": "Employee.Ioc.Configaration",
-      "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
-      "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-      "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Ioc.Configaration\\obj\\",
+      "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Ioc.Configaration\\Employee.Ioc.Configaration.csproj",
+      "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Ioc.Configaration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4001,11 +4001,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj": {
-              "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Core\\Employee.Core.csproj"
+            "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj": {
+              "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Core\\Employee.Core.csproj"
             },
-            "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
-              "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
+            "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
             }
           }
         }
@@ -4053,7 +4053,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,66 @@
+﻿@model Employee.Frontend.Models.State
+
+@{
+    if (ViewBag.ButtonText=="Save")
+    {
+        ViewData["Title"] = "Edit" + Model.StateName;
+
+    }
+    else
+    {
+        ViewData["Title"] = "Create State";
+
+    }
+    if (ViewBag.ButtonText == "Save")
+    {
+        <h1> Edit Info of @Model.StateName</h1>
+    }
+    else
+    {
+        <h1> Create New State</h1>
+    }
+
+}
+
+<h1>AddOrEdit</h1>
+
+<h4>State</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddOrEdit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>*@
+            <input asp-for="Id" type="hidden"/>
+            <div class="form-group">
+                <label asp-for="StateName" class="control-label"></label>
+                <input asp-for="StateName" class="form-control" />
+                <span asp-validation-for="StateName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CountryId" class="control-label"></label>
+                @*<input asp-for="CountryId" class="form-control" />*@
+                <select asp-for="CountryId" asp-items="@ViewBag.CountryId " class="form-control">
+                    <option> Select State</option>
+               </select>
+                 
+                <span asp-validation-for="CountryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="@ViewBag.ButtonText" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

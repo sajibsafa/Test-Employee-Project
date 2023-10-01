@@ -106,3 +106,30 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.deps.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.runtimeconfig.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Ioc.Configaration.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Core.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Repository.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.AssemblyReference.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfoInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.AssemblyInfo.cs
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CoreCompileInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.csproj.CopyComplete
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\refint\Employee.Ioc.Configaration.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\Employee.Ioc.Configaration.genruntimeconfig.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Ioc.Configaration\obj\Debug\net7.0\ref\Employee.Ioc.Configaration.dll

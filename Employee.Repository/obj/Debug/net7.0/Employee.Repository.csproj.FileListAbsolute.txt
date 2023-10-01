@@ -90,3 +90,26 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Repository\obj\Debug\net7.0\refi
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.genruntimeconfig.cache
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.deps.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.runtimeconfig.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Repository.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.AssemblyReference.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfoInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.AssemblyInfo.cs
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.csproj.CopyComplete
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\refint\Employee.Repository.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\Employee.Repository.genruntimeconfig.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Repository\obj\Debug\net7.0\ref\Employee.Repository.dll

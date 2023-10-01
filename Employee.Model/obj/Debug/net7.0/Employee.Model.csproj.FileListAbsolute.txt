@@ -58,3 +58,20 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Model\obj\Debug\net7.0\Employee.
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.deps.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.AssemblyReference.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfoInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.AssemblyInfo.cs
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CoreCompileInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.csproj.CopyComplete
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\refint\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\ref\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\bin\Debug\net7.0\Employee.Model.runtimeconfig.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Model\obj\Debug\net7.0\Employee.Model.genruntimeconfig.cache

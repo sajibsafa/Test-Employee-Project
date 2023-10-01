@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Employee.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class CrearteTable : Migration
+    public partial class addd : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -106,8 +106,8 @@ namespace Employee.Infrastructure.Migrations
                 columns: new[] { "Id", "CountryName", "Courencies", "Created", "CreatedBy", "LastModified", "LastModifiedBy", "Status" },
                 values: new object[,]
                 {
-                    { 1, "BanglaDesh", "Taka", new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 157, DateTimeKind.Unspecified).AddTicks(2409), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, 1 },
-                    { 2, "India", "Rupi", new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 157, DateTimeKind.Unspecified).AddTicks(2456), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, 1 }
+                    { 1, "BanglaDesh", "Taka", new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 0, DateTimeKind.Unspecified).AddTicks(9740), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, 1 },
+                    { 2, "India", "Rupi", new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 0, DateTimeKind.Unspecified).AddTicks(9772), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, 1 }
                 });
 
             migrationBuilder.InsertData(
@@ -115,9 +115,9 @@ namespace Employee.Infrastructure.Migrations
                 columns: new[] { "Id", "CountryId", "Created", "CreatedBy", "LastModified", "LastModifiedBy", "StateName", "Status" },
                 values: new object[,]
                 {
-                    { 1, 1, new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 159, DateTimeKind.Unspecified).AddTicks(9470), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Dhaka", 1 },
-                    { 2, 1, new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 159, DateTimeKind.Unspecified).AddTicks(9488), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Rajshahi", 1 },
-                    { 3, 2, new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 159, DateTimeKind.Unspecified).AddTicks(9491), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Mumbai", 1 }
+                    { 1, 1, new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 2, DateTimeKind.Unspecified).AddTicks(1666), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Dhaka", 1 },
+                    { 2, 1, new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 2, DateTimeKind.Unspecified).AddTicks(1675), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Rajshahi", 1 },
+                    { 3, 2, new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 2, DateTimeKind.Unspecified).AddTicks(1677), new TimeSpan(0, 6, 0, 0, 0)), "1", null, null, "Mumbai", 1 }
                 });
 
             migrationBuilder.InsertData(
@@ -126,8 +126,8 @@ namespace Employee.Infrastructure.Migrations
                 columns: new[] { "Id", "Address", "Age", "CountryId", "Created", "CreatedBy", "FirstName", "LastModified", "LastModifiedBy", "LastName", "PhoneNumber", "StateId", "Status" },
                 values: new object[,]
                 {
-                    { 1, "Dhaka", 26, 1, new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 158, DateTimeKind.Unspecified).AddTicks(9874), new TimeSpan(0, 6, 0, 0, 0)), "1", "M.A. Monaem", null, null, "Khan", "01303271849", 1, 1 },
-                    { 2, "Dhaka", 26, 2, new DateTimeOffset(new DateTime(2023, 9, 26, 9, 51, 35, 158, DateTimeKind.Unspecified).AddTicks(9895), new TimeSpan(0, 6, 0, 0, 0)), "1", "M.A.", null, null, "Khan", "013", 3, 1 }
+                    { 1, "Dhaka", 26, 1, new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 1, DateTimeKind.Unspecified).AddTicks(7181), new TimeSpan(0, 6, 0, 0, 0)), "1", "M.A. Monaem", null, null, "Khan", "01303271849", 1, 1 },
+                    { 2, "Dhaka", 26, 2, new DateTimeOffset(new DateTime(2023, 10, 1, 21, 21, 29, 1, DateTimeKind.Unspecified).AddTicks(7191), new TimeSpan(0, 6, 0, 0, 0)), "1", "M.A.", null, null, "Khan", "013", 3, 1 }
                 });
 
             migrationBuilder.CreateIndex(

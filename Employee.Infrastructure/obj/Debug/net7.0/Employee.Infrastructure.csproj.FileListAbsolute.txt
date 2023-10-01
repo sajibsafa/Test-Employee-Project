@@ -74,3 +74,22 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Infrastructure\obj\Debug\net7.0\
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.runtimeconfig.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.genruntimeconfig.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll

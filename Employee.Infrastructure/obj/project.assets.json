@@ -3538,25 +3538,26 @@
     "net7.0": [
       "Employee.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
       "Microsoft.Extensions.Configuration >= 7.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LAB-711\\.nuget\\packages\\": {}
+    "C:\\Users\\sajib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
       "projectName": "Employee.Infrastructure",
-      "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-      "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3570,8 +3571,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj": {
-              "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj"
+            "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj": {
+              "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Model\\Employee.Model.csproj"
             }
           }
         }
@@ -3587,6 +3588,12 @@
         "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.10, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.10, )"
           },
@@ -3621,7 +3628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

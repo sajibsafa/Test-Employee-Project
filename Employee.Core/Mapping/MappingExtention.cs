@@ -15,7 +15,8 @@ public class MappingExtention:Profile
     {
         CreateMap<VMEmployee, Employees>().ReverseMap();
         CreateMap<VMCountries, Countries>().ReverseMap();
-        CreateMap<VMState,States>().ReverseMap();
+        CreateMap<VMState,States>().ReverseMap()
+            .ForMember(x=>x.CountryName, x=>x.MapFrom(x=>x.Countries !=null? x.Countries.CountryName:""));
     }
 
 }

@@ -58,3 +58,18 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\E
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.deps.json
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\bin\Debug\net7.0\Employee.Shared.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.AssemblyReference.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfoInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.AssemblyInfo.cs
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.csproj.CopyComplete
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\refint\Employee.Service.Model.dll
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\Employee.Service.Model.pdb
+C:\Users\sajib\OneDrive\Desktop\practice\Employee\Employee.Service.Model\obj\Debug\net7.0\ref\Employee.Service.Model.dll

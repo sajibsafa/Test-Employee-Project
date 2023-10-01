@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LAB-711\\.nuget\\packages\\": {}
+    "C:\\Users\\sajib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj",
       "projectName": "Employee.Shared",
-      "projectPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\Employee.Shared.csproj",
-      "packagesPath": "C:\\Users\\LAB-711\\.nuget\\packages\\",
-      "outputPath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Shared\\obj\\",
+      "projectPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\Employee.Shared.csproj",
+      "packagesPath": "C:\\Users\\sajib\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sajib\\OneDrive\\Desktop\\practice\\Employee\\Employee.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAB-711\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
