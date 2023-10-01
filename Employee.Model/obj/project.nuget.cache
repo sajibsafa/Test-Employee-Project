@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zw7SuHkxuEHRIAmDBthK71Aye+THq+75urSMIpOmQg/b5YqZet2qgF5oSwLaPiOD8GJD3xd95gxP2YAK52eCXg==",
+  "dgSpecHash": "d5cY9EJWd2dV74ZTPQ5saMeAWfc1S+9YCxgFeWZEVZFJyIXP4ydviQlhoujlxydDbniRtZ0Pjg/97bptXEVDYw==",
   "success": true,
   "projectFilePath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Model\\Employee.Model.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -430,3 +430,6 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\refint\
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\Employee.Backend.genruntimeconfig.cache
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\obj\Debug\net7.0\ref\Employee.Backend.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.ReDoc.dll

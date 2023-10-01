@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a/lI7lN2WVsZ7Mx2NjDaSEQ8Ydw8J3+khLK1XZaEzBrhqb0DYnrdIcH024Psi2Z4pJNPbf1k6oL0TZbaPcxqXQ==",
+  "dgSpecHash": "BqmQjKx4STTObMul7SKzdEJQihZlDdUcjqfRpBM2InU6D8FjAgh3JzckM/afn2aIAxbVEDHDAH7329FKm/mA+g==",
   "success": true,
   "projectFilePath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -71,10 +71,7 @@
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+    "C:\\Users\\LAB-711\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

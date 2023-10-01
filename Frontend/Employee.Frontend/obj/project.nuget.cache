@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LWHHe0qjCjRfhTCeKjX77iN1ZOX1dAgKNRBZTAQjbkBhq1es8N+9DhBFOTlwpE1r4LjVIXlEfiR9nebs8q52pQ==",
+  "dgSpecHash": "kSLyUDHzN7pUQQgD6zmNXKAPPPAjnuCgThubR3vka54lg3451OACmsmxy7nAiqL6UKj8hVM27kuH4fe31RX7fw==",
   "success": true,
   "projectFilePath": "D:\\sajib\\MVC & Api\\30-09-2023\\Employee\\Frontend\\Employee.Frontend\\Employee.Frontend.csproj",
   "expectedPackageFiles": [
@@ -194,11 +194,7 @@
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\LAB-711\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
-    "C:\\Users\\LAB-711\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+    "C:\\Users\\LAB-711\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
